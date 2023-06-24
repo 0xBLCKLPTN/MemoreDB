@@ -57,8 +57,8 @@ Finished in 0.1 seconds (0.06s async, 0.06s sync)
 ```
 
 ### TODO:
- - [ ] ci/cd
- - [ ] docker image
+ - [x] ci/cd
+ - [x] docker image
  - [x] gen_tcp server
  - [x] write docmodules
  - [x] write normal README.md 
