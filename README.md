@@ -42,6 +42,13 @@ DELETE shopping_list milk
 DELETE shopping_list name
 ```
 
+### Dockerize:
+```sh
+docker build -t MemoreApplication .
+docker run -dp 127.0.0.1:4040:4040 MemoreApplication
+```
+
+
 # Tests
 All checks have now been passed
 ```sh
